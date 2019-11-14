@@ -1,3 +1,5 @@
+package six_kuy;
+
 public class ASum {
 
     //By given volume of the building (m) returns number of cubes need for build

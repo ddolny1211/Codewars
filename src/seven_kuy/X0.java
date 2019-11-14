@@ -1,3 +1,5 @@
+package seven_kuy;
+
 class XO {
 
     //Check if a given String has the same amount of 'x' and 'o'

@@ -1,3 +1,5 @@
+package eight_kuy;
+
 public class Counter {
     //Check how many sheeps are present by given array
     public int countSheeps(Boolean[] arrayOfSheeps) {

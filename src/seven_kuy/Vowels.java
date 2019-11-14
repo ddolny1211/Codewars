@@ -1,3 +1,5 @@
+package seven_kuy;
+
 public class Vowels {
 
     //Return number of vowels in the given string
