@@ -12,4 +12,9 @@ public class Vowels {
         return vowelsCount;
     }
 
+    public static void main(String[] args) {
+        String str = "abracadabra";
+        System.out.println(getCount(str));
+    }
+
 }
