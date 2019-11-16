@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class AreSame {
 
     // Verify is b[] have the same elements as in a[] squared
-    // a[] or b[] cannot be null but the can be empty
+    // a[] or b[] cannot be null but they can be empty
 
     public static boolean comp(int[] a, int[] b) {
         if (a == null || b == null || a.length != b.length) {
