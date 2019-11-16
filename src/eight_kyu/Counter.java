@@ -1,4 +1,4 @@
-package eight_kuy;
+package eight_kyu;
 
 public class Counter {
     //Check how many sheeps are present by given array

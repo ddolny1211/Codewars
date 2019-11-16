@@ -1,4 +1,4 @@
-package six_kuy;
+package six_kyu;
 
 public class BouncingBall {
 

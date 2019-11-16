@@ -1,4 +1,4 @@
-package seven_kuy;
+package seven_kyu;
 
 public class MinMax {
     public static int[] minMax(int[] arr) {

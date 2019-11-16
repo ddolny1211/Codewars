@@ -1,4 +1,4 @@
-package five_kuy;
+package five_kyu;
 
 import java.math.BigInteger;
 
